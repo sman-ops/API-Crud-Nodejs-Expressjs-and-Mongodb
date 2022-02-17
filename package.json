@@ -1,0 +1,18 @@
+{
+  "name": "api-crud-node-mongo-2022",
+  "version": "1.0.0",
+  "description": "\"first api Node\"",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Slimen Ghnimi\"",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  }
+}
+
